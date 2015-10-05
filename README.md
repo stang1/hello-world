@@ -1,6 +1,6 @@
 # Hello World!
 
 # Contributors:
-Patrice  
-Eugene
-Jerome
+* Patrice  
+* Eugene
+* Jerome Lefebvre
