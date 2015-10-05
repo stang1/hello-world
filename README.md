@@ -2,5 +2,5 @@
 
 # Contributors:
 * Patrice  
-* Eugene
+* Eugene Lee
 * Jerome Lefebvre
