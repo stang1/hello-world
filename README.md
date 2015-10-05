@@ -2,5 +2,4 @@
 
 # Contributors:
 Patrice
-
 Eugene
