@@ -4,3 +4,4 @@
 * Patrice  
 * Eugene Lee
 * Jerome Lefebvre
+* Dan Fishman
