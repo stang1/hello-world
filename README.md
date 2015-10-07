@@ -5,3 +5,4 @@
 * Eugene Lee
 * Jerome Lefebvre
 * Dan Fishman
+* Samuel Tang
