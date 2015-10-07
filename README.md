@@ -4,4 +4,3 @@
 * Patrice  
 * Eugene Lee
 * Jerome Lefebvre
-* Samuel Tang
